@@ -1,5 +1,5 @@
 package com.inventory.result;
 
 public enum UpdateQuantityResult {
-    SUCCESS, INVALID_QUANTITY ,PRODUCT_NOT_FOUND;
+    SUCCESS, INVALID_QUANTITY ,PRODUCT_NOT_FOUND,DATABASE_ERROR;
 }

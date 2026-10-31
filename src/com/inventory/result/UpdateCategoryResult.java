@@ -1,5 +1,5 @@
 package com.inventory.result;
 
 public enum UpdateCategoryResult {
-    SUCCESS,INVALID_CATEGORY, PRODUCT_NOT_FOUND;
+    SUCCESS,INVALID_CATEGORY, PRODUCT_NOT_FOUND,DATABASE_ERROR;
 }
