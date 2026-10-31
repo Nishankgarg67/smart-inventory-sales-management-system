@@ -4,7 +4,7 @@ A Java-based inventory management project that I am building step by step while 
 
 The idea is to gradually develop this project from a simple console application into a complete inventory and sales management system.
 
-## Current Version — Version 1
+## Current Version — Version 2
 
 Version 2 – JDBC + MySQL Integration
 
